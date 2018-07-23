@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">393769807683-340qcjahggtfdkp5e7nmf0dm747sgr3d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://xradio-23731.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">393769807683</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJoja-gQpv2AMZI8D9rbHFcQTM9kWS51k</string>
+    <string name="google_app_id" translatable="false">1:393769807683:android:1387d19b6fed49f7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJoja-gQpv2AMZI8D9rbHFcQTM9kWS51k</string>
+    <string name="google_storage_bucket" translatable="false">xradio-23731.appspot.com</string>
+    <string name="project_id" translatable="false">xradio-23731</string>
+</resources>

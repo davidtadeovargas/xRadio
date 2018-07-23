@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "msg": "success",
+  "datas": [
+    {
+      "url_endpoint": "http://ypyglobal.com/xradio_demo",
+      "api_key": "eHJhZGlvcGVyZmVjdGFwcA",
+      "lastfm_api_key": "9699b0c63fdbfe07d5ba5bb749a2d056",
+      "cache_expiration": 0,
+      "ad_type": "admob",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393769807683",
+    "firebase_url": "https://xradio-23731.firebaseio.com",
+    "project_id": "xradio-23731",
+    "storage_bucket": "xradio-23731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393769807683:android:1387d19b6fed49f7",
+        "android_client_info": {
+          "package_name": "com.ypyglobal.xradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393769807683-340qcjahggtfdkp5e7nmf0dm747sgr3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJoja-gQpv2AMZI8D9rbHFcQTM9kWS51k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

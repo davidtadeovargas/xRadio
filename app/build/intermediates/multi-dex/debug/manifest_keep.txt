@@ -1,0 +1,3 @@
+# Referenced at /Users/macbook13/Dropbox/Tadeo/Mis archivos/Android/xRadio/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:30
+-keep class com.ypyglobal.xradio.XRadioApplication { <init>(...); }
+

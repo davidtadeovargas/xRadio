@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>isBanned</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>update_message</key>
+        <value>Please update to the newest app</value>
+    </entry>
+    <entry>
+        <key>version_code</key>
+        <value>20180115</value>
+    </entry>
+    <entry>
+        <key>link_update</key>
+        <value>https://play.google.com/store/apps/details?id=primemusicplayer.freemusic.mp3song.musicplay.unlimited</value>
+    </entry>
+</defaultsMap>
+<!-- END xml_defaults -->
